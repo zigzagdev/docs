@@ -306,7 +306,7 @@
           "text": "Dependency Injection",
           "link": "/development/dependency-injection"
         },
-        { "text": "plugins", "link": "/plugins" },
+        { "text": "Plugins", "link": "/plugins" },
         { "text": "Errors", "link": "/development/errors" },
         { "text": "REST", "link": "/development/rest" },
         { "text": "Testing", "link": "/development/testing" }
